@@ -30,9 +30,6 @@
   "dependencies": {
     "passport-strategy": "1.0.x"
   },
-  "peerDependencies": {
-    "ims-lti": ">2.1.x"
-  },
   "main": "./lib",
   "devDependencies": {
     "ims-lti": "2.1.x",
